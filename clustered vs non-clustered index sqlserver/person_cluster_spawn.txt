@@ -1,0 +1,2 @@
+nama,Human,Full Name,True|True
+umur,Numbers,Integer,20|80
