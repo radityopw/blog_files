@@ -1,0 +1,2 @@
+id,Numbers,Sequence,1|0|1
+nama,Human,Full Name,True|True
